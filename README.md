@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! My name is Ishaan Mittal and I am currently a grade 12 student attending Bishop Reding CSS. My aspirations for the future is to become a Full-Stack Software Engineer for a reputable company. Some of my passions/hobbies include programming, soccer, cricket, army cadets, debate, and competitive esports.
+Hello! My name is Ishaan Mittal and I am currently a Computer Engineering student at the University of Waterloo. My aspirations for the future is to become a Full-Stack Software Engineer for a reputable company. Some of my passions/hobbies include programming, soccer, cricket, army cadets, debate, and competitive esports.
 
 ###
 
