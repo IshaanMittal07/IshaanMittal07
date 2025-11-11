@@ -3,7 +3,7 @@
 Hello! My name is Ishaan Mittal and I am currently a Computer Engineering student at the University of Waterloo. My aspirations for the future is to become a Full-Stack Software Engineer for a reputable company. Some of my passions/hobbies include programming, soccer, cricket, army cadets, debate, and competitive esports.
 
 ###
-
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=IshaanMittal07&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshaanMittal07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
