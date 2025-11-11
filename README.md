@@ -4,8 +4,7 @@ Hello! My name is Ishaan Mittal and I am currently a Computer Engineering studen
 
 ###
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=IshaanMittal07&theme=dracula&hide_border=true" height="180" alt="streak graph" />
-
+  <img src="https://streak-stats.demolab.com?user=IshaanMittal07&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshaanMittal07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
 
