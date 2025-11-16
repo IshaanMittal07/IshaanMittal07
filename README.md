@@ -75,13 +75,13 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_TtiI7lBLWVCSil519xA3rWyDq_9Sczy9w&s" height="40" alt="Node.js" />
+  <img src="https://image.pngaaa.com/668/4547668-middle.png" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://svglogo.co/logo/fastapi/icon.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" />
   <img width="12" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://icon2.cleanpng.com/20180719/gkc/kisspng-learning-opencv-computer-vision-machine-learning-c-singleton-pattern-5b505052c02871.9275163515319900987871.jpg" height="40" alt="OpenCV" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/opencv_logo_icon_170887.png" height="40" alt="OpenCV" />
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" height="40" alt="Arduino" />
   <img width="12" />
