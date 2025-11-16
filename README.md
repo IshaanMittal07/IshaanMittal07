@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://i.ibb.co/hJKjNCsh/images-removebg-preview.png" height="40" alt="Node.js" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="40" alt="Node.js" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" />
   <img width="12" />
