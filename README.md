@@ -6,7 +6,7 @@ Hello! My name is Ishaan Mittal and I am currently a Computer Engineering studen
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IshaanMittal07&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="165" alt="streak graph"  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshaanMittal07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshaanMittal07&exclude_repo=Math115-Python&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
 
 </div>
 
