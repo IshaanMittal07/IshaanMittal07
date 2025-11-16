@@ -73,6 +73,28 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-margin/logo-teal-transparent.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="OpenCV" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Arduino_Logo.svg" height="40" alt="Arduino" />
+  <img width="12" />
+
+
+
+
+
+
+
+  
 </div>
 
 
