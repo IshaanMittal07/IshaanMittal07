@@ -77,8 +77,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" />
-  <img width="12" />
   <img src="https://svglogo.co/logo/fastapi/icon.svg" height="40" alt="FastAPI" />
   <img width="12" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="40" alt="Docker" />
