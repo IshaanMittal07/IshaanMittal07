@@ -83,6 +83,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/opencv_logo_icon_170887.png" height="40" alt="OpenCV" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" alt="Git" />
+  <img width="12" />
 
 
 
