@@ -87,7 +87,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" alt="Git" />
   <img width="12" />
-  <img src="  https://w7.pngwing.com/pngs/367/959/png-transparent-mongodb-icon-hd-logo.png" height="40" alt="MongoDB" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" height="40" alt="MongoDB" />
   <img width="12" />
 
 
