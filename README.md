@@ -61,6 +61,10 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="40" alt="Node.js" />
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height="40" alt="Jquery"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" height="40" alt="Bootstrap"  />
@@ -72,10 +76,6 @@ Here are some ideas to get you started:
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" alt="Java"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="40" alt="Node.js" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" />
   <img width="12" />
