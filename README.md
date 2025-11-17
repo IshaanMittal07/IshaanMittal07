@@ -65,6 +65,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="40" alt="Node.js" />
   <img width="12" />
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" height="40" alt="Express.js" />
+  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height="40" alt="Jquery"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" height="40" alt="Bootstrap"  />
@@ -84,6 +86,8 @@ Here are some ideas to get you started:
   <img src="https://images.icon-icons.com/2699/PNG/512/opencv_logo_icon_170887.png" height="40" alt="OpenCV" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="40" alt="Git" />
+  <img width="12" />
+  <img src="  https://w7.pngwing.com/pngs/367/959/png-transparent-mongodb-icon-hd-logo.png" height="40" alt="MongoDB" />
   <img width="12" />
 
 
