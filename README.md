@@ -83,8 +83,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://images.icon-icons.com/2699/PNG/512/opencv_logo_icon_170887.png" height="40" alt="OpenCV" />
   <img width="12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/arduino-1-logo-png-transparent.png" height="40" alt="Arduino" />
-  <img width="12" />
 
 
 
