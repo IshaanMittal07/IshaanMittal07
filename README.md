@@ -65,8 +65,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" height="40" alt="Express.js" />
-  <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height="40" alt="Jquery"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo.png" height="40" alt="Bootstrap"  />
