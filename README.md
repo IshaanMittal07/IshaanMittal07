@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" alt="Java"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++"  />
+  <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" height="40" alt="C++"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="40" alt="FastAPI" />
   <img width="12" />
